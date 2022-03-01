@@ -27,7 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![solution screenshot 1](Solution-screenshot-mobile-error-msg.png)
-![solution screenshot 2](Solution-screenshot-mobile-error-msg.png)
+![solution screenshot 2](Solution-screenshot-desktop.png)
 
 ### Built with
 
